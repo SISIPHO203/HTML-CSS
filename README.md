@@ -163,5 +163,16 @@ To create a form we start with the form element which informs the browser about 
 Use input element to provide places for users to type in .
 use button element for users to submit the form , the text on the button can be customized to whatever is required.
 
+#HTML TABLES
+to create an HTML table , you use several different HTML elements in just the right combination. Table,TR, TH and TD.
+
+The Table element wraps around the whole table, around all content and markup for that table, making the beginning and the end of the table itself.
+ 
+The TR elementstands for table row and wraps around a set of eleemnts, defining them as belonging to the same row .
+
+ The TH element stands for table header and defines a header for a column.
+
+ The TD element stands for table data and marks up the cells of data.
+ 
 
 
