@@ -138,3 +138,30 @@ The link element is cruicial component used extensively within head section.It s
 To inform the browser about the type of asset, utilize the rel attribute.
 href attribute is employed to specify the URL for asset.
 Script tag is acommonly used element in HTML document's head , it instructs the browser to load a JavaScript file.
+
+#Content structuring 
+
+typical structure inside the body , ther are six elements to understand
+
+Main : the main element is used once per webpage and tells the browser where the main content is located.
+
+Header: header is used for site headers, article headers, and headers within the content. Header is usually found at the top of most web pages and may include a logo, site name, and navigation.
+
+Footer: the footer signiies that there are extra things to convey, regardless of its position on the page.
+
+Article: this element wraps around any type of content unit, whether it as a long written article , a shot snippet, a teaser card,a tweet, or even an app element . It represents a standalone unit of content.
+
+Section: this element is used to mark sections of content, it is also useful for dividing different topic zones on a website.
+
+Aside:thise element is for content that is off to the sid, like sidebar information or additional details that accompany and article but are not part of its main flow.
+
+#Form fundamentals
+
+Form fields they are used for various tasks like logging into webstites , making purchases, conducting searches and adding content. 
+By using HTML form elements, we ensure that forms will be compatible with all devices and input/output hardware , even those we may not be familiar with.
+To create a form we start with the form element which informs the browser about the presence of a form using opening and closing tags.
+Use input element to provide places for users to type in .
+use button element for users to submit the form , the text on the button can be customized to whatever is required.
+
+
+
