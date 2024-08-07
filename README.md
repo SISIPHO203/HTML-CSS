@@ -175,4 +175,14 @@ The TR elementstands for table row and wraps around a set of eleemnts, defining 
  The TD element stands for table data and marks up the cells of data.
  
 
+# INTRODUCTION TO CSS
+
+CSS: is a style sheet thst holds all the styles for yur webpage, this adds visual apeal to your web page.
+CSS has two parts  the selector and the declaration block.
+The selector specifies a pattern in the HTML and if te pattern matches the styles within the declaration block applied to the corresponding HTML elements.
+In each style declaration consists of two parts a PROPERTY and a VALUE.
+The fiesrt aspect of CSS id the selector because it is essential to be able to select specific elements in our HTML. 
+
+
+
 
