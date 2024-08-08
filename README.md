@@ -183,6 +183,15 @@ The selector specifies a pattern in the HTML and if te pattern matches the style
 In each style declaration consists of two parts a PROPERTY and a VALUE.
 The fiesrt aspect of CSS id the selector because it is essential to be able to select specific elements in our HTML. 
 
+#Font types
 
+Common font types are Serif and Sans serif.
+Serif fonts have small lines at the ends of the letters called serifs.
+Sans serif fonts do not have serifs and have a moremodern appearamce. Sans serif fonts are mainly used on the web for extended text because they look clean and are easy to read.
+
+#Font measurements and size
+In web design there are two types of sizing: ABSOLUTE and RELATIVE.
+Absolute sizes, such as points or pixls, remain the same regardless of the screen size.
+On the other hand , relative units like percentages, or R-E-M (pronounced as "rem") can adjust based on the page size.
 
 
